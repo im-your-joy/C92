@@ -1,0 +1,22 @@
+#output
+{
+background:  #F0CFD4;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+body
+{
+	background: #F0CFD4;
+    font-family:monospace;
+}
+
+.container
+{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
